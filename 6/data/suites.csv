@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 25 10:26:12 GMT 2023","Wed Jan 25 10:26:14 GMT 2023","2039","","ru.jiehk.IssueNameCheckTest","","ru.jiehk.IssueNameCheckTest","issueNameCheckWithListener","issueNameCheckWithListener()",""
+"passed","Wed Jan 25 10:26:09 GMT 2023","Wed Jan 25 10:26:12 GMT 2023","2736","","ru.jiehk.IssueNameCheckTest","","ru.jiehk.IssueNameCheckTest","issueNameCheckWithAnnotationSteps","issueNameCheckWithAnnotationSteps()",""
+"passed","Wed Jan 25 10:26:02 GMT 2023","Wed Jan 25 10:26:09 GMT 2023","6790","","ru.jiehk.IssueNameCheckTest","","ru.jiehk.IssueNameCheckTest","issueNameCheckWithLambdaSteps","issueNameCheckWithLambdaSteps()",""
