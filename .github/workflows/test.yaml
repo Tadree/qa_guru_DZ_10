@@ -1,4 +1,4 @@
-name: Issue for Autotest
+name: Test Action
 
 on: [push]
 
